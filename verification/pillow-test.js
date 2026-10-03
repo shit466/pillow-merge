@@ -4,7 +4,7 @@ const {Game,FLOOR}=require('./pillow-engine.js');
 const stages=require('./stages.json');
 const tick=(g,n)=>{for(let i=0;i<n;i++)g.step(1/120);};
 const make=()=>{const g=new Game(stages,{random:()=>.1});g.start();return g;};
-assert.equal(stages.length,11);
+assert.equal(stages.length,10);
 for(let tier=0;tier<stages.length;tier++){
   const g=make();let events=0;g.onMerge=()=>events++;
   g.add(tier,200,300);g.add(tier,201,300);tick(g,2);
@@ -56,4 +56,4 @@ const rand=()=>{seed=(1664525*seed+1013904223)>>>0;return seed/2**32;};
   console.log({drops,score:g.score,pieces:g.bodies.length,minY:Math.min(...g.bodies.map(b=>b.bounds.min.y)),maxOver:Math.max(...g.bodies.map(b=>b.plugin.over)),highest:g.highest});assert.ok(g.score>0);assert.ok(['running','over','revive'].includes(g.state));
   console.log(JSON.stringify({stressDrops:drops,score:g.score,pieces:g.bodies.length,state:g.state,highest:g.highest+1}));
 }
-console.log('PASS: all 11 merge levels, single consumption, transparent corners, gravity/floor, pause/reset, cooldown, real falling merge, rewards/revive, seeded stress/overflow.');
+console.log('PASS: all 10 stages, single consumption, transparent corners, gravity/floor, pause/reset, cooldown, real falling merge, rewards/revive, seeded stress/overflow.');

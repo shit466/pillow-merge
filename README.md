@@ -1,12 +1,12 @@
 # 合成枕头
 
-- [直接玩新版：神秘图鉴版](https://shit466.github.io/pillow-merge/v2/)
-- [合成枕头初版（保持原样）](https://shit466.github.io/pillow-merge/v1/)
+- [第一版](https://shit466.github.io/pillow-merge/v1/)
+- [第二版](https://shit466.github.io/pillow-merge/v2/)
 
-新版终极图鉴需实际合成后解锁；下落第1—4阶的概率依次为40%、25%、20%、15%。加大前期角色占位，调整后期尺寸。
+两版均已移除原第11阶照片、图鉴入口和合成阶段，最高为第10阶。两个第10阶相遇后消除，奖励500分和一枚复活币。
 
-调参后的三局分数为2118、2616、4138，平均2957.33分，第三局合成第11阶。这是固定种子调参结果，不代表每三局必出终极。详情及全部调参记录在 `verification/测试记录.txt`。
+下落第1—4阶概率为40%、25%、20%、15%。
 
-复现：`node verification/reproduce.js`。规则测试：`node verification/pillow-test.js`；图鉴测试：`node verification/pillow-collection-test.js`。
+`verification/run-*.json`及旧调参记录仅供历史参考：记录的是删除前的11阶版本，不代表当前10阶版本。当前阶段删除检查：`node verification/removal-test.js`。
 
-人物图片由用户提供并经AI抠图；图片不随物理库的MIT许可证授权。Matter.js许可证见Matter-LICENSE.txt。
+Matter.js许可证见Matter-LICENSE.txt。人物图片不随物理库许可证授权。

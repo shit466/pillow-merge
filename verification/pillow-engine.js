@@ -20,6 +20,7 @@
     }
     start(){this.state='running';}
     add(tier,x,y,{angle=0}={}){
+      if(!Number.isInteger(tier)||tier<0||tier>=this.stages.length)throw new RangeError('Stage is unavailable');
       const s=this.stages[tier];x=clamp(x,WALL+s.w/2+1,W-WALL-s.w/2-1);
       const parts=s.parts.map(([cx,cy,r])=>M.Bodies.circle(cx,cy,r,{friction:.45,restitution:.07},16));
       const body=M.Body.create({parts,friction:.45,frictionStatic:.7,frictionAir:.013,restitution:.07,sleepThreshold:60,slop:.15});
