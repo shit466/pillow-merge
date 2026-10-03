@@ -1,0 +1,344 @@
+[
+  {
+    "round": "a",
+    "scales": [
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.12,
+      1.07,
+      1.03,
+      1,
+      1,
+      1,
+      1
+    ],
+    "results": [
+      {
+        "seed": 104,
+        "score": 4369,
+        "highest": 11,
+        "hit11": true,
+        "first11": {
+          "drop": 491,
+          "score": 3529
+        },
+        "drops": 620,
+        "revives": 2,
+        "state": "over",
+        "seconds": 955.8,
+        "wallSeconds": 23.8
+      },
+      {
+        "seed": 207,
+        "score": 3149,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 490,
+        "revives": 1,
+        "state": "over",
+        "seconds": 772.1,
+        "wallSeconds": 18.4
+      },
+      {
+        "seed": 309,
+        "score": 5800,
+        "highest": 11,
+        "hit11": true,
+        "first11": {
+          "drop": 565,
+          "score": 4254
+        },
+        "drops": 794,
+        "revives": 2,
+        "state": "over",
+        "seconds": 1334.9,
+        "wallSeconds": 35.4
+      }
+    ]
+  },
+  {
+    "round": "b",
+    "scales": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.2,
+      1.1,
+      1.03,
+      1,
+      1,
+      1,
+      1
+    ],
+    "results": [
+      {
+        "seed": 104,
+        "score": 2318,
+        "highest": 9,
+        "hit11": false,
+        "first11": null,
+        "drops": 349,
+        "revives": 1,
+        "state": "over",
+        "seconds": 552.7,
+        "wallSeconds": 10.3
+      },
+      {
+        "seed": 207,
+        "score": 3021,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 470,
+        "revives": 1,
+        "state": "over",
+        "seconds": 686.3,
+        "wallSeconds": 13.7
+      },
+      {
+        "seed": 309,
+        "score": 2951,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 434,
+        "revives": 1,
+        "state": "over",
+        "seconds": 679,
+        "wallSeconds": 12.8
+      }
+    ]
+  },
+  {
+    "round": "c",
+    "scales": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.2,
+      1.1,
+      1.03,
+      0.95,
+      0.9,
+      0.85,
+      1.15
+    ],
+    "results": [
+      {
+        "seed": 104,
+        "score": 4656,
+        "highest": 11,
+        "hit11": true,
+        "first11": {
+          "drop": 636,
+          "score": 4591
+        },
+        "drops": 654,
+        "revives": 2,
+        "state": "over",
+        "seconds": 1074.9,
+        "wallSeconds": 24.7
+      },
+      {
+        "seed": 207,
+        "score": 3844,
+        "highest": 11,
+        "hit11": true,
+        "first11": {
+          "drop": 459,
+          "score": 3208
+        },
+        "drops": 558,
+        "revives": 1,
+        "state": "over",
+        "seconds": 891.6,
+        "wallSeconds": 20.7
+      },
+      {
+        "seed": 309,
+        "score": 3110,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 458,
+        "revives": 1,
+        "state": "over",
+        "seconds": 687,
+        "wallSeconds": 13.9
+      }
+    ]
+  },
+  {
+    "round": "d",
+    "scales": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.3,
+      1.15,
+      1.03,
+      0.95,
+      0.9,
+      0.85,
+      1.15
+    ],
+    "results": [
+      {
+        "seed": 104,
+        "score": 2922,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 432,
+        "revives": 1,
+        "state": "over",
+        "seconds": 737.6,
+        "wallSeconds": 17.9
+      },
+      {
+        "seed": 207,
+        "score": 2395,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 377,
+        "revives": 1,
+        "state": "over",
+        "seconds": 605.5,
+        "wallSeconds": 11.7
+      },
+      {
+        "seed": 309,
+        "score": 1430,
+        "highest": 9,
+        "hit11": false,
+        "first11": null,
+        "drops": 219,
+        "revives": 0,
+        "state": "over",
+        "seconds": 359.4,
+        "wallSeconds": 6.8
+      }
+    ]
+  },
+  {
+    "round": "e",
+    "scales": [
+      1.45,
+      1.45,
+      1.45,
+      1.45,
+      1.25,
+      1.12,
+      1.03,
+      0.95,
+      0.9,
+      0.85,
+      1.15
+    ],
+    "results": [
+      {
+        "seed": 104,
+        "score": 2118,
+        "highest": 9,
+        "hit11": false,
+        "first11": null,
+        "drops": 326,
+        "revives": 1,
+        "state": "over",
+        "seconds": 519.3,
+        "wallSeconds": 14
+      },
+      {
+        "seed": 207,
+        "score": 2616,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 408,
+        "revives": 1,
+        "state": "over",
+        "seconds": 624.8,
+        "wallSeconds": 15.3
+      },
+      {
+        "seed": 309,
+        "score": 5349,
+        "highest": 11,
+        "hit11": true,
+        "first11": {
+          "drop": 513,
+          "score": 3803
+        },
+        "drops": 730,
+        "revives": 2,
+        "state": "over",
+        "seconds": 1203.9,
+        "wallSeconds": 28.7
+      }
+    ]
+  },
+  {
+    "round": "f",
+    "scales": [
+      1.45,
+      1.45,
+      1.45,
+      1.45,
+      1.25,
+      1.12,
+      1.03,
+      0.95,
+      0.9,
+      0.85,
+      1.55
+    ],
+    "results": [
+      {
+        "seed": 104,
+        "score": 2118,
+        "highest": 9,
+        "hit11": false,
+        "first11": null,
+        "drops": 326,
+        "revives": 1,
+        "state": "over",
+        "seconds": 519.3,
+        "wallSeconds": 13.6
+      },
+      {
+        "seed": 207,
+        "score": 2616,
+        "highest": 10,
+        "hit11": false,
+        "first11": null,
+        "drops": 408,
+        "revives": 1,
+        "state": "over",
+        "seconds": 624.8,
+        "wallSeconds": 14.8
+      },
+      {
+        "seed": 309,
+        "score": 4138,
+        "highest": 11,
+        "hit11": true,
+        "first11": {
+          "drop": 513,
+          "score": 3797
+        },
+        "drops": 574,
+        "revives": 2,
+        "state": "over",
+        "seconds": 965,
+        "wallSeconds": 23.2
+      }
+    ]
+  }
+]

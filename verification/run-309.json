@@ -1,0 +1,5198 @@
+{
+  "scales": [
+    1.45,
+    1.45,
+    1.45,
+    1.45,
+    1.25,
+    1.12,
+    1.03,
+    0.95,
+    0.9,
+    0.85,
+    1.55
+  ],
+  "result": {
+    "seed": 309,
+    "score": 4138,
+    "highest": 11,
+    "hit11": true,
+    "first11": {
+      "drop": 513,
+      "score": 3797
+    },
+    "drops": 574,
+    "revives": 2,
+    "state": "over",
+    "seconds": 965,
+    "wallSeconds": 23.2
+  },
+  "trace": [
+    {
+      "turn": 1,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 154,
+      "score": 0,
+      "highest": 1,
+      "state": "running"
+    },
+    {
+      "turn": 2,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 135,
+      "score": 1,
+      "highest": 2,
+      "state": "running"
+    },
+    {
+      "turn": 3,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 213,
+      "score": 1,
+      "highest": 2,
+      "state": "running"
+    },
+    {
+      "turn": 4,
+      "tier": 1,
+      "x": 179.13,
+      "steps": 122,
+      "score": 2,
+      "highest": 2,
+      "state": "running"
+    },
+    {
+      "turn": 5,
+      "tier": 1,
+      "x": 191.13,
+      "steps": 241,
+      "score": 2,
+      "highest": 2,
+      "state": "running"
+    },
+    {
+      "turn": 6,
+      "tier": 3,
+      "x": 319.75,
+      "steps": 122,
+      "score": 2,
+      "highest": 2,
+      "state": "running"
+    },
+    {
+      "turn": 7,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 139,
+      "score": 5,
+      "highest": 3,
+      "state": "running"
+    },
+    {
+      "turn": 8,
+      "tier": 3,
+      "x": 199.75,
+      "steps": 241,
+      "score": 11,
+      "highest": 4,
+      "state": "running"
+    },
+    {
+      "turn": 9,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 241,
+      "score": 17,
+      "highest": 4,
+      "state": "running"
+    },
+    {
+      "turn": 10,
+      "tier": 1,
+      "x": 275.13,
+      "steps": 131,
+      "score": 18,
+      "highest": 4,
+      "state": "running"
+    },
+    {
+      "turn": 11,
+      "tier": 4,
+      "x": 279.27,
+      "steps": 185,
+      "score": 28,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 12,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 231,
+      "score": 28,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 13,
+      "tier": 2,
+      "x": 218.81,
+      "steps": 156,
+      "score": 31,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 14,
+      "tier": 4,
+      "x": 219.27,
+      "steps": 154,
+      "score": 41,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 15,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 185,
+      "score": 44,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 16,
+      "tier": 2,
+      "x": 218.81,
+      "steps": 196,
+      "score": 44,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 17,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 167,
+      "score": 45,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 18,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 124,
+      "score": 45,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 19,
+      "tier": 2,
+      "x": 278.81,
+      "steps": 127,
+      "score": 54,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 20,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 122,
+      "score": 54,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 21,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 141,
+      "score": 64,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 22,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 122,
+      "score": 64,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 23,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 159,
+      "score": 67,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 24,
+      "tier": 2,
+      "x": 314.81,
+      "steps": 132,
+      "score": 67,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 25,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 129,
+      "score": 67,
+      "highest": 5,
+      "state": "running"
+    },
+    {
+      "turn": 26,
+      "tier": 3,
+      "x": 175.75,
+      "steps": 198,
+      "score": 98,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 27,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 136,
+      "score": 99,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 28,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 129,
+      "score": 102,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 29,
+      "tier": 3,
+      "x": 103.75,
+      "steps": 225,
+      "score": 108,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 30,
+      "tier": 4,
+      "x": 123.27,
+      "steps": 163,
+      "score": 118,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 31,
+      "tier": 4,
+      "x": 327.27,
+      "steps": 140,
+      "score": 118,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 32,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 143,
+      "score": 118,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 33,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 129,
+      "score": 118,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 34,
+      "tier": 3,
+      "x": 307.75,
+      "steps": 131,
+      "score": 118,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 35,
+      "tier": 3,
+      "x": 343.75,
+      "steps": 241,
+      "score": 149,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 36,
+      "tier": 3,
+      "x": 319.75,
+      "steps": 199,
+      "score": 149,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 37,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 241,
+      "score": 150,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 38,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 150,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 39,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 241,
+      "score": 150,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 40,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 241,
+      "score": 166,
+      "highest": 6,
+      "state": "running"
+    },
+    {
+      "turn": 41,
+      "tier": 2,
+      "x": 218.81,
+      "steps": 241,
+      "score": 221,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 42,
+      "tier": 4,
+      "x": 291.27,
+      "steps": 241,
+      "score": 221,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 43,
+      "tier": 2,
+      "x": 170.81,
+      "steps": 133,
+      "score": 224,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 44,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 123,
+      "score": 230,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 45,
+      "tier": 3,
+      "x": 199.75,
+      "steps": 241,
+      "score": 230,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 46,
+      "tier": 4,
+      "x": 63.27,
+      "steps": 241,
+      "score": 255,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 47,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 202,
+      "score": 261,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 48,
+      "tier": 3,
+      "x": 307.75,
+      "steps": 134,
+      "score": 261,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 49,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 237,
+      "score": 261,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 50,
+      "tier": 4,
+      "x": 87.27,
+      "steps": 159,
+      "score": 271,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 51,
+      "tier": 2,
+      "x": 254.81,
+      "steps": 135,
+      "score": 271,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 52,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 241,
+      "score": 287,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 53,
+      "tier": 2,
+      "x": 206.81,
+      "steps": 241,
+      "score": 290,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 54,
+      "tier": 4,
+      "x": 63.27,
+      "steps": 150,
+      "score": 290,
+      "highest": 7,
+      "state": "running"
+    },
+    {
+      "turn": 55,
+      "tier": 4,
+      "x": 159.27,
+      "steps": 187,
+      "score": 364,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 56,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 198,
+      "score": 370,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 57,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 137,
+      "score": 370,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 58,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 241,
+      "score": 395,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 59,
+      "tier": 2,
+      "x": 302.81,
+      "steps": 141,
+      "score": 395,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 60,
+      "tier": 3,
+      "x": 79.75,
+      "steps": 192,
+      "score": 401,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 61,
+      "tier": 1,
+      "x": 263.13,
+      "steps": 122,
+      "score": 401,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 62,
+      "tier": 2,
+      "x": 302.81,
+      "steps": 126,
+      "score": 404,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 63,
+      "tier": 1,
+      "x": 215.13,
+      "steps": 172,
+      "score": 405,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 64,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 163,
+      "score": 414,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 65,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 122,
+      "score": 414,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 66,
+      "tier": 3,
+      "x": 151.75,
+      "steps": 143,
+      "score": 420,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 67,
+      "tier": 3,
+      "x": 103.75,
+      "steps": 140,
+      "score": 420,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 68,
+      "tier": 3,
+      "x": 139.75,
+      "steps": 123,
+      "score": 436,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 69,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 122,
+      "score": 436,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 70,
+      "tier": 2,
+      "x": 230.81,
+      "steps": 122,
+      "score": 436,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 71,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 129,
+      "score": 437,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 72,
+      "tier": 1,
+      "x": 335.13,
+      "steps": 126,
+      "score": 437,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 73,
+      "tier": 1,
+      "x": 371.13,
+      "steps": 140,
+      "score": 438,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 74,
+      "tier": 4,
+      "x": 267.27,
+      "steps": 187,
+      "score": 448,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 75,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 122,
+      "score": 448,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 76,
+      "tier": 3,
+      "x": 235.75,
+      "steps": 123,
+      "score": 448,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 77,
+      "tier": 3,
+      "x": 283.75,
+      "steps": 134,
+      "score": 454,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 78,
+      "tier": 2,
+      "x": 88.55,
+      "steps": 199,
+      "score": 457,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 79,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 123,
+      "score": 458,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 80,
+      "tier": 3,
+      "x": 91.75,
+      "steps": 241,
+      "score": 464,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 81,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 165,
+      "score": 464,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 82,
+      "tier": 4,
+      "x": 147.27,
+      "steps": 241,
+      "score": 510,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 83,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 517,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 84,
+      "tier": 3,
+      "x": 91.75,
+      "steps": 241,
+      "score": 533,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 85,
+      "tier": 2,
+      "x": 86.81,
+      "steps": 122,
+      "score": 533,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 86,
+      "tier": 2,
+      "x": 98.81,
+      "steps": 241,
+      "score": 536,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 87,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 128,
+      "score": 536,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 88,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 537,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 89,
+      "tier": 2,
+      "x": 50.81,
+      "steps": 241,
+      "score": 571,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 90,
+      "tier": 2,
+      "x": 98.81,
+      "steps": 241,
+      "score": 571,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 91,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 241,
+      "score": 574,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 92,
+      "tier": 2,
+      "x": 314.81,
+      "steps": 241,
+      "score": 574,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 93,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 241,
+      "score": 574,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 94,
+      "tier": 2,
+      "x": 278.81,
+      "steps": 235,
+      "score": 629,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 95,
+      "tier": 1,
+      "x": 263.13,
+      "steps": 139,
+      "score": 629,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 96,
+      "tier": 2,
+      "x": 302.81,
+      "steps": 123,
+      "score": 629,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 97,
+      "tier": 2,
+      "x": 350.81,
+      "steps": 241,
+      "score": 632,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 98,
+      "tier": 2,
+      "x": 194.81,
+      "steps": 155,
+      "score": 632,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 99,
+      "tier": 1,
+      "x": 359.13,
+      "steps": 131,
+      "score": 632,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 100,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 241,
+      "score": 633,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 101,
+      "tier": 3,
+      "x": 67.75,
+      "steps": 241,
+      "score": 640,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 102,
+      "tier": 2,
+      "x": 326.81,
+      "steps": 241,
+      "score": 652,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 103,
+      "tier": 2,
+      "x": 206.81,
+      "steps": 241,
+      "score": 652,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 104,
+      "tier": 1,
+      "x": 287.13,
+      "steps": 241,
+      "score": 652,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 105,
+      "tier": 2,
+      "x": 194.81,
+      "steps": 201,
+      "score": 661,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 106,
+      "tier": 3,
+      "x": 199.75,
+      "steps": 241,
+      "score": 671,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 107,
+      "tier": 3,
+      "x": 182.47,
+      "steps": 241,
+      "score": 702,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 108,
+      "tier": 3,
+      "x": 295.75,
+      "steps": 198,
+      "score": 702,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 109,
+      "tier": 1,
+      "x": 359.13,
+      "steps": 130,
+      "score": 703,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 110,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 179,
+      "score": 703,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 111,
+      "tier": 4,
+      "x": 99.27,
+      "steps": 228,
+      "score": 703,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 112,
+      "tier": 2,
+      "x": 362.81,
+      "steps": 241,
+      "score": 712,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 113,
+      "tier": 3,
+      "x": 175.75,
+      "steps": 188,
+      "score": 712,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 114,
+      "tier": 4,
+      "x": 315.27,
+      "steps": 241,
+      "score": 722,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 115,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 241,
+      "score": 738,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 116,
+      "tier": 3,
+      "x": 187.75,
+      "steps": 124,
+      "score": 738,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 117,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 738,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 118,
+      "tier": 4,
+      "x": 339.27,
+      "steps": 173,
+      "score": 738,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 119,
+      "tier": 3,
+      "x": 187.75,
+      "steps": 241,
+      "score": 754,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 120,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 241,
+      "score": 755,
+      "highest": 8,
+      "state": "running"
+    },
+    {
+      "turn": 121,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 856,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 122,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 241,
+      "score": 856,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 123,
+      "tier": 1,
+      "x": 299.13,
+      "steps": 241,
+      "score": 856,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 124,
+      "tier": 1,
+      "x": 263.13,
+      "steps": 241,
+      "score": 857,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 125,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 158,
+      "score": 857,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 126,
+      "tier": 3,
+      "x": 283.75,
+      "steps": 227,
+      "score": 857,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 127,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 241,
+      "score": 873,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 128,
+      "tier": 1,
+      "x": 263.13,
+      "steps": 241,
+      "score": 877,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 129,
+      "tier": 1,
+      "x": 239.13,
+      "steps": 122,
+      "score": 877,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 130,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 241,
+      "score": 887,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 131,
+      "tier": 4,
+      "x": 303.27,
+      "steps": 241,
+      "score": 912,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 132,
+      "tier": 4,
+      "x": 279.27,
+      "steps": 241,
+      "score": 912,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 133,
+      "tier": 4,
+      "x": 339.27,
+      "steps": 241,
+      "score": 937,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 134,
+      "tier": 4,
+      "x": 183.27,
+      "steps": 131,
+      "score": 958,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 135,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 227,
+      "score": 961,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 136,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 163,
+      "score": 967,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 137,
+      "tier": 1,
+      "x": 287.13,
+      "steps": 129,
+      "score": 967,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 138,
+      "tier": 1,
+      "x": 299.13,
+      "steps": 216,
+      "score": 968,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 139,
+      "tier": 4,
+      "x": 267.27,
+      "steps": 241,
+      "score": 978,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 140,
+      "tier": 2,
+      "x": 302.81,
+      "steps": 241,
+      "score": 981,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 141,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 241,
+      "score": 987,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 142,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 238,
+      "score": 987,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 143,
+      "tier": 2,
+      "x": 146.81,
+      "steps": 155,
+      "score": 987,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 144,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 124,
+      "score": 987,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 145,
+      "tier": 1,
+      "x": 191.13,
+      "steps": 202,
+      "score": 988,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 146,
+      "tier": 3,
+      "x": 343.75,
+      "steps": 241,
+      "score": 1007,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 147,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 126,
+      "score": 1007,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 148,
+      "tier": 1,
+      "x": 167.13,
+      "steps": 212,
+      "score": 1008,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 149,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 144,
+      "score": 1008,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 150,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 205,
+      "score": 1012,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 151,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 226,
+      "score": 1012,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 152,
+      "tier": 3,
+      "x": 247.75,
+      "steps": 213,
+      "score": 1018,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 153,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 138,
+      "score": 1018,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 154,
+      "tier": 4,
+      "x": 339.27,
+      "steps": 202,
+      "score": 1043,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 155,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 125,
+      "score": 1043,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 156,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 241,
+      "score": 1059,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 157,
+      "tier": 1,
+      "x": 191.13,
+      "steps": 241,
+      "score": 1063,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 158,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 126,
+      "score": 1063,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 159,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 205,
+      "score": 1064,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 160,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 126,
+      "score": 1064,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 161,
+      "tier": 3,
+      "x": 163.75,
+      "steps": 215,
+      "score": 1070,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 162,
+      "tier": 2,
+      "x": 146.81,
+      "steps": 241,
+      "score": 1073,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 163,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 208,
+      "score": 1074,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 164,
+      "tier": 4,
+      "x": 219.27,
+      "steps": 241,
+      "score": 1084,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 165,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 141,
+      "score": 1084,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 166,
+      "tier": 3,
+      "x": 247.75,
+      "steps": 133,
+      "score": 1084,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 167,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 234,
+      "score": 1123,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 168,
+      "tier": 1,
+      "x": 143.13,
+      "steps": 218,
+      "score": 1124,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 169,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 241,
+      "score": 1140,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 170,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 208,
+      "score": 1149,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 171,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 122,
+      "score": 1149,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 172,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 193,
+      "score": 1150,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 173,
+      "tier": 3,
+      "x": 127.75,
+      "steps": 190,
+      "score": 1156,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 174,
+      "tier": 1,
+      "x": 215.13,
+      "steps": 129,
+      "score": 1156,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 175,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 241,
+      "score": 1159,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 176,
+      "tier": 3,
+      "x": 259.75,
+      "steps": 134,
+      "score": 1159,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 177,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 205,
+      "score": 1169,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 178,
+      "tier": 3,
+      "x": 319.75,
+      "steps": 241,
+      "score": 1267,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 179,
+      "tier": 4,
+      "x": 123.27,
+      "steps": 241,
+      "score": 1277,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 180,
+      "tier": 2,
+      "x": 98.81,
+      "steps": 241,
+      "score": 1277,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 181,
+      "tier": 1,
+      "x": 143.13,
+      "steps": 241,
+      "score": 1312,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 182,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 134,
+      "score": 1312,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 183,
+      "tier": 4,
+      "x": 63.27,
+      "steps": 241,
+      "score": 1312,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 184,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 196,
+      "score": 1315,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 185,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 122,
+      "score": 1315,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 186,
+      "tier": 3,
+      "x": 103.75,
+      "steps": 241,
+      "score": 1331,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 187,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 145,
+      "score": 1331,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 188,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 131,
+      "score": 1331,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 189,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 129,
+      "score": 1331,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 190,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 241,
+      "score": 1387,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 191,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 1387,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 192,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 191,
+      "score": 1387,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 193,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 143,
+      "score": 1387,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 194,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 241,
+      "score": 1390,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 195,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 1391,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 196,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 241,
+      "score": 1391,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 197,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 1391,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 198,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 241,
+      "score": 1401,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 199,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 1411,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 200,
+      "tier": 3,
+      "x": 187.75,
+      "steps": 241,
+      "score": 1411,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 201,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 241,
+      "score": 1412,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 202,
+      "tier": 1,
+      "x": 215.13,
+      "steps": 241,
+      "score": 1412,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 203,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 241,
+      "score": 1418,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 204,
+      "tier": 3,
+      "x": 247.75,
+      "steps": 183,
+      "score": 1418,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 205,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 122,
+      "score": 1418,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 206,
+      "tier": 1,
+      "x": 335.13,
+      "steps": 241,
+      "score": 1419,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 207,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 127,
+      "score": 1419,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 208,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 1423,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 209,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 124,
+      "score": 1423,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 210,
+      "tier": 2,
+      "x": 338.81,
+      "steps": 241,
+      "score": 1432,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 211,
+      "tier": 1,
+      "x": 219.04,
+      "steps": 214,
+      "score": 1432,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 212,
+      "tier": 3,
+      "x": 151.75,
+      "steps": 241,
+      "score": 1438,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 213,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 241,
+      "score": 1465,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 214,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 241,
+      "score": 1465,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 215,
+      "tier": 4,
+      "x": 291.27,
+      "steps": 240,
+      "score": 1475,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 216,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 196,
+      "score": 1479,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 217,
+      "tier": 4,
+      "x": 267.27,
+      "steps": 122,
+      "score": 1479,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 218,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 127,
+      "score": 1479,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 219,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 122,
+      "score": 1480,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 220,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 131,
+      "score": 1489,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 221,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 124,
+      "score": 1489,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 222,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 123,
+      "score": 1489,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 223,
+      "tier": 3,
+      "x": 208.06,
+      "steps": 122,
+      "score": 1489,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 224,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 122,
+      "score": 1493,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 225,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 122,
+      "score": 1493,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 226,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 201,
+      "score": 1528,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 227,
+      "tier": 1,
+      "x": 275.13,
+      "steps": 122,
+      "score": 1528,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 228,
+      "tier": 2,
+      "x": 230.81,
+      "steps": 122,
+      "score": 1528,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 229,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 123,
+      "score": 1528,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 230,
+      "tier": 2,
+      "x": 194.81,
+      "steps": 124,
+      "score": 1531,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 231,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 123,
+      "score": 1532,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 232,
+      "tier": 1,
+      "x": 167.13,
+      "steps": 133,
+      "score": 1532,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 233,
+      "tier": 4,
+      "x": 327.27,
+      "steps": 122,
+      "score": 1532,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 234,
+      "tier": 3,
+      "x": 199.75,
+      "steps": 138,
+      "score": 1548,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 235,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 134,
+      "score": 1551,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 236,
+      "tier": 4,
+      "x": 327.27,
+      "steps": 208,
+      "score": 1566,
+      "highest": 9,
+      "state": "running"
+    },
+    {
+      "turn": 237,
+      "tier": 3,
+      "x": 103.75,
+      "steps": 241,
+      "score": 1727,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 238,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 176,
+      "score": 1727,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 239,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 234,
+      "score": 1730,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 240,
+      "tier": 2,
+      "x": 140.15,
+      "steps": 122,
+      "score": 1730,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 241,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 208,
+      "score": 1739,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 242,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 241,
+      "score": 1764,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 243,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 144,
+      "score": 1764,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 244,
+      "tier": 1,
+      "x": 275.13,
+      "steps": 143,
+      "score": 1764,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 245,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 230,
+      "score": 1770,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 246,
+      "tier": 3,
+      "x": 235.75,
+      "steps": 223,
+      "score": 1770,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 247,
+      "tier": 3,
+      "x": 175.75,
+      "steps": 241,
+      "score": 1776,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 248,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 241,
+      "score": 1786,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 249,
+      "tier": 1,
+      "x": 275.13,
+      "steps": 236,
+      "score": 1787,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 250,
+      "tier": 2,
+      "x": 254.81,
+      "steps": 201,
+      "score": 1790,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 251,
+      "tier": 2,
+      "x": 139.28,
+      "steps": 142,
+      "score": 1794,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 252,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 148,
+      "score": 1794,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 253,
+      "tier": 3,
+      "x": 343.75,
+      "steps": 241,
+      "score": 1800,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 254,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 126,
+      "score": 1800,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 255,
+      "tier": 2,
+      "x": 98.81,
+      "steps": 194,
+      "score": 1809,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 256,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 122,
+      "score": 1809,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 257,
+      "tier": 1,
+      "x": 384,
+      "steps": 241,
+      "score": 1810,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 258,
+      "tier": 2,
+      "x": 86.81,
+      "steps": 241,
+      "score": 1813,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 259,
+      "tier": 2,
+      "x": 242.81,
+      "steps": 241,
+      "score": 1813,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 260,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 134,
+      "score": 1813,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 261,
+      "tier": 2,
+      "x": 242.81,
+      "steps": 241,
+      "score": 1816,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 262,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 241,
+      "score": 1817,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 263,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 241,
+      "score": 1869,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 264,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 241,
+      "score": 1875,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 265,
+      "tier": 2,
+      "x": 314.81,
+      "steps": 241,
+      "score": 1878,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 266,
+      "tier": 1,
+      "x": 287.13,
+      "steps": 125,
+      "score": 1878,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 267,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 156,
+      "score": 1884,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 268,
+      "tier": 1,
+      "x": 263.13,
+      "steps": 144,
+      "score": 1885,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 269,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 122,
+      "score": 1885,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 270,
+      "tier": 2,
+      "x": 350.81,
+      "steps": 146,
+      "score": 1888,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 271,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 241,
+      "score": 1904,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 272,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 122,
+      "score": 1904,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 273,
+      "tier": 2,
+      "x": 146.81,
+      "steps": 241,
+      "score": 1907,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 274,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 241,
+      "score": 1913,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 275,
+      "tier": 2,
+      "x": 350.81,
+      "steps": 179,
+      "score": 1923,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 276,
+      "tier": 2,
+      "x": 374.81,
+      "steps": 136,
+      "score": 1926,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 277,
+      "tier": 3,
+      "x": 139.75,
+      "steps": 241,
+      "score": 1957,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 278,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 123,
+      "score": 1957,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 279,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 241,
+      "score": 1958,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 280,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 122,
+      "score": 1958,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 281,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 171,
+      "score": 1958,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 282,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 204,
+      "score": 1962,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 283,
+      "tier": 4,
+      "x": 339.27,
+      "steps": 128,
+      "score": 1962,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 284,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 241,
+      "score": 2008,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 285,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 241,
+      "score": 2017,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 286,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 122,
+      "score": 2017,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 287,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 122,
+      "score": 2017,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 288,
+      "tier": 1,
+      "x": 115.59,
+      "steps": 241,
+      "score": 2021,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 289,
+      "tier": 2,
+      "x": 242.81,
+      "steps": 133,
+      "score": 2021,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 290,
+      "tier": 2,
+      "x": 278.81,
+      "steps": 241,
+      "score": 2030,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 291,
+      "tier": 3,
+      "x": 79.75,
+      "steps": 241,
+      "score": 2074,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 292,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 130,
+      "score": 2074,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 293,
+      "tier": 3,
+      "x": 355.75,
+      "steps": 182,
+      "score": 2074,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 294,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 241,
+      "score": 2077,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 295,
+      "tier": 4,
+      "x": 327.27,
+      "steps": 184,
+      "score": 2077,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 296,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 241,
+      "score": 2087,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 297,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 241,
+      "score": 2087,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 298,
+      "tier": 3,
+      "x": 91.75,
+      "steps": 241,
+      "score": 2103,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 299,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 241,
+      "score": 2119,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 300,
+      "tier": 2,
+      "x": 242.81,
+      "steps": 241,
+      "score": 2122,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 301,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 122,
+      "score": 2122,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 302,
+      "tier": 1,
+      "x": 347.13,
+      "steps": 241,
+      "score": 2123,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 303,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 143,
+      "score": 2123,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 304,
+      "tier": 3,
+      "x": 151.75,
+      "steps": 241,
+      "score": 2151,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 305,
+      "tier": 2,
+      "x": 362.81,
+      "steps": 241,
+      "score": 2160,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 306,
+      "tier": 2,
+      "x": 290.81,
+      "steps": 241,
+      "score": 2163,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 307,
+      "tier": 3,
+      "x": 223.75,
+      "steps": 174,
+      "score": 2194,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 308,
+      "tier": 2,
+      "x": 374.81,
+      "steps": 130,
+      "score": 2194,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 309,
+      "tier": 1,
+      "x": 335.13,
+      "steps": 122,
+      "score": 2194,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 310,
+      "tier": 1,
+      "x": 335.13,
+      "steps": 241,
+      "score": 2198,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 311,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 141,
+      "score": 2198,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 312,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 241,
+      "score": 2199,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 313,
+      "tier": 1,
+      "x": 287.13,
+      "steps": 122,
+      "score": 2199,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 314,
+      "tier": 4,
+      "x": 243.27,
+      "steps": 241,
+      "score": 2224,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 315,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 241,
+      "score": 2227,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 316,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 123,
+      "score": 2227,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 317,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 241,
+      "score": 2236,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 318,
+      "tier": 3,
+      "x": 363.88,
+      "steps": 241,
+      "score": 2242,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 319,
+      "tier": 4,
+      "x": 315.27,
+      "steps": 241,
+      "score": 2252,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 320,
+      "tier": 3,
+      "x": 283.75,
+      "steps": 148,
+      "score": 2252,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 321,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 122,
+      "score": 2252,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 322,
+      "tier": 1,
+      "x": 191.13,
+      "steps": 122,
+      "score": 2252,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 323,
+      "tier": 2,
+      "x": 98.81,
+      "steps": 241,
+      "score": 2255,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 324,
+      "tier": 2,
+      "x": 338.81,
+      "steps": 241,
+      "score": 2255,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 325,
+      "tier": 2,
+      "x": 374.81,
+      "steps": 241,
+      "score": 2264,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 326,
+      "tier": 2,
+      "x": 374.81,
+      "steps": 122,
+      "score": 2264,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 327,
+      "tier": 4,
+      "x": 75.27,
+      "steps": 241,
+      "score": 2274,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 328,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 241,
+      "score": 2275,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 329,
+      "tier": 2,
+      "x": 226.31,
+      "steps": 241,
+      "score": 2294,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 330,
+      "tier": 3,
+      "x": 163.75,
+      "steps": 241,
+      "score": 2294,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 331,
+      "tier": 2,
+      "x": 338.81,
+      "steps": 241,
+      "score": 2297,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 332,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 241,
+      "score": 2297,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 333,
+      "tier": 3,
+      "x": 345.08,
+      "steps": 241,
+      "score": 2303,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 334,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 206,
+      "score": 2304,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 335,
+      "tier": 2,
+      "x": 86.81,
+      "steps": 206,
+      "score": 2313,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 336,
+      "tier": 2,
+      "x": 86.81,
+      "steps": 122,
+      "score": 2313,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 337,
+      "tier": 4,
+      "x": 243.27,
+      "steps": 204,
+      "score": 2338,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 338,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 122,
+      "score": 2338,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 339,
+      "tier": 2,
+      "x": 110.81,
+      "steps": 241,
+      "score": 2341,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 340,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 241,
+      "score": 2341,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 341,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 122,
+      "score": 2341,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 342,
+      "tier": 3,
+      "x": 199.75,
+      "steps": 241,
+      "score": 2357,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 343,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 122,
+      "score": 2357,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 344,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 222,
+      "score": 2358,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 345,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 171,
+      "score": 2358,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 346,
+      "tier": 2,
+      "x": 381.19,
+      "steps": 192,
+      "score": 2361,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 347,
+      "tier": 3,
+      "x": 343.75,
+      "steps": 241,
+      "score": 2367,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 348,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 241,
+      "score": 2376,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 349,
+      "tier": 3,
+      "x": 295.75,
+      "steps": 241,
+      "score": 2376,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 350,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 241,
+      "score": 2387,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 351,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 241,
+      "score": 2429,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 352,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2429,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 353,
+      "tier": 2,
+      "x": 381.19,
+      "steps": 241,
+      "score": 2429,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 354,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 2458,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 355,
+      "tier": 1,
+      "x": 143.13,
+      "steps": 241,
+      "score": 2458,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 356,
+      "tier": 2,
+      "x": 314.81,
+      "steps": 241,
+      "score": 2461,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 357,
+      "tier": 3,
+      "x": 295.75,
+      "steps": 241,
+      "score": 2467,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 358,
+      "tier": 4,
+      "x": 303.27,
+      "steps": 241,
+      "score": 2513,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 359,
+      "tier": 2,
+      "x": 170.81,
+      "steps": 156,
+      "score": 2513,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 360,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 180,
+      "score": 2513,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 361,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 241,
+      "score": 2517,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 362,
+      "tier": 1,
+      "x": 335.13,
+      "steps": 219,
+      "score": 2517,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 363,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 134,
+      "score": 2517,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 364,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 208,
+      "score": 2517,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 365,
+      "tier": 3,
+      "x": 247.75,
+      "steps": 241,
+      "score": 2523,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 366,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 241,
+      "score": 2524,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 367,
+      "tier": 2,
+      "x": 146.81,
+      "steps": 241,
+      "score": 2607,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 368,
+      "tier": 3,
+      "x": 163.75,
+      "steps": 241,
+      "score": 2607,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 369,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 241,
+      "score": 2607,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 370,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 241,
+      "score": 2608,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 371,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2657,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 372,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 2717,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 373,
+      "tier": 4,
+      "x": 303.27,
+      "steps": 241,
+      "score": 2732,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 374,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 241,
+      "score": 2741,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 375,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2741,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 376,
+      "tier": 4,
+      "x": 339.27,
+      "steps": 241,
+      "score": 2751,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 377,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 241,
+      "score": 2757,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 378,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 241,
+      "score": 2757,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 379,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 241,
+      "score": 2757,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 380,
+      "tier": 1,
+      "x": 134.67,
+      "steps": 241,
+      "score": 2758,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 381,
+      "tier": 1,
+      "x": 143.13,
+      "steps": 122,
+      "score": 2758,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 382,
+      "tier": 3,
+      "x": 223.75,
+      "steps": 152,
+      "score": 2758,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 383,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 241,
+      "score": 2783,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 384,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 123,
+      "score": 2783,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 385,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 2793,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 386,
+      "tier": 2,
+      "x": 146.81,
+      "steps": 241,
+      "score": 2793,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 387,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 2814,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 388,
+      "tier": 2,
+      "x": 254.81,
+      "steps": 241,
+      "score": 2814,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 389,
+      "tier": 2,
+      "x": 326.81,
+      "steps": 241,
+      "score": 2817,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 390,
+      "tier": 3,
+      "x": 211.75,
+      "steps": 241,
+      "score": 2823,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 391,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 241,
+      "score": 2823,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 392,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 2827,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 393,
+      "tier": 3,
+      "x": 295.75,
+      "steps": 241,
+      "score": 2843,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 394,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 241,
+      "score": 2859,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 395,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 241,
+      "score": 2862,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 396,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2862,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 397,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 241,
+      "score": 2862,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 398,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 241,
+      "score": 2863,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 399,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 241,
+      "score": 2863,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 400,
+      "tier": 3,
+      "x": 139.75,
+      "steps": 241,
+      "score": 2863,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 401,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2863,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 402,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 2898,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 403,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 241,
+      "score": 2898,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 404,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 2899,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 405,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 241,
+      "score": 2908,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 406,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 241,
+      "score": 2911,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 407,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2911,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 408,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 241,
+      "score": 2912,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 409,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 241,
+      "score": 2912,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 410,
+      "tier": 4,
+      "x": 279.27,
+      "steps": 241,
+      "score": 2937,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 411,
+      "tier": 4,
+      "x": 159.27,
+      "steps": 141,
+      "score": 2937,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 412,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 241,
+      "score": 2951,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 413,
+      "tier": 4,
+      "x": 171.27,
+      "steps": 241,
+      "score": 2951,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 414,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 2951,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 415,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 2952,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 416,
+      "tier": 1,
+      "x": 119.13,
+      "steps": 241,
+      "score": 2952,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 417,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 241,
+      "score": 2977,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 418,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 241,
+      "score": 2987,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 419,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 2987,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 420,
+      "tier": 2,
+      "x": 194.81,
+      "steps": 241,
+      "score": 2987,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 421,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 241,
+      "score": 2988,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 422,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 241,
+      "score": 2991,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 423,
+      "tier": 2,
+      "x": 194.81,
+      "steps": 241,
+      "score": 2994,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 424,
+      "tier": 4,
+      "x": 68.93,
+      "steps": 241,
+      "score": 3059,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 425,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 225,
+      "score": 3059,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 426,
+      "tier": 4,
+      "x": 291.27,
+      "steps": 241,
+      "score": 3069,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 427,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 3070,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 428,
+      "tier": 1,
+      "x": 299.13,
+      "steps": 241,
+      "score": 3070,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 429,
+      "tier": 3,
+      "x": 247.75,
+      "steps": 241,
+      "score": 3070,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 430,
+      "tier": 3,
+      "x": 331.75,
+      "steps": 241,
+      "score": 3076,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 431,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 3076,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 432,
+      "tier": 3,
+      "x": 91.75,
+      "steps": 131,
+      "score": 3076,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 433,
+      "tier": 1,
+      "x": 384.87,
+      "steps": 150,
+      "score": 3076,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 434,
+      "tier": 1,
+      "x": 347.13,
+      "steps": 241,
+      "score": 3077,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 435,
+      "tier": 3,
+      "x": 127.75,
+      "steps": 241,
+      "score": 3083,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 436,
+      "tier": 4,
+      "x": 267.27,
+      "steps": 241,
+      "score": 3129,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 437,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 173,
+      "score": 3129,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 438,
+      "tier": 1,
+      "x": 107.13,
+      "steps": 241,
+      "score": 3139,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 439,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 241,
+      "score": 3139,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 440,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 241,
+      "score": 3170,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 441,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 139,
+      "score": 3170,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 442,
+      "tier": 2,
+      "x": 338.81,
+      "steps": 241,
+      "score": 3179,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 443,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 241,
+      "score": 3179,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 444,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 241,
+      "score": 3182,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 445,
+      "tier": 3,
+      "x": 55.75,
+      "steps": 241,
+      "score": 3198,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 446,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 241,
+      "score": 3208,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 447,
+      "tier": 4,
+      "x": 99.27,
+      "steps": 241,
+      "score": 3208,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 448,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 241,
+      "score": 3208,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 449,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 241,
+      "score": 3208,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 450,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 241,
+      "score": 3208,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 451,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 3209,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 452,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 220,
+      "score": 3212,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 453,
+      "tier": 4,
+      "x": 183.27,
+      "steps": 241,
+      "score": 3222,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 454,
+      "tier": 3,
+      "x": 307.75,
+      "steps": 241,
+      "score": 3228,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 455,
+      "tier": 1,
+      "x": 384.87,
+      "steps": 241,
+      "score": 3228,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 456,
+      "tier": 2,
+      "x": 350.81,
+      "steps": 241,
+      "score": 3228,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 457,
+      "tier": 3,
+      "x": 175.75,
+      "steps": 241,
+      "score": 3228,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 458,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 241,
+      "score": 3228,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 459,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 3229,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 460,
+      "tier": 2,
+      "x": 338.81,
+      "steps": 241,
+      "score": 3232,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 461,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 3232,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 462,
+      "tier": 1,
+      "x": 47.13,
+      "steps": 241,
+      "score": 3242,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 463,
+      "tier": 3,
+      "x": 67.75,
+      "steps": 241,
+      "score": 3273,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 464,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 241,
+      "score": 3273,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 465,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 241,
+      "score": 3274,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 466,
+      "tier": 3,
+      "x": 271.75,
+      "steps": 241,
+      "score": 3280,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 467,
+      "tier": 3,
+      "x": 235.75,
+      "steps": 241,
+      "score": 3280,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 468,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 241,
+      "score": 3283,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 469,
+      "tier": 2,
+      "x": 194.81,
+      "steps": 241,
+      "score": 3283,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 470,
+      "tier": 1,
+      "x": 215.13,
+      "steps": 189,
+      "score": 3283,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 471,
+      "tier": 1,
+      "x": 251.13,
+      "steps": 241,
+      "score": 3367,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 472,
+      "tier": 4,
+      "x": 315.27,
+      "steps": 241,
+      "score": 3377,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 473,
+      "tier": 1,
+      "x": 311.13,
+      "steps": 241,
+      "score": 3378,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 474,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 241,
+      "score": 3378,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 475,
+      "tier": 1,
+      "x": 59.13,
+      "steps": 122,
+      "score": 3378,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 476,
+      "tier": 3,
+      "x": 223.75,
+      "steps": 241,
+      "score": 3384,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 477,
+      "tier": 1,
+      "x": 100.42,
+      "steps": 241,
+      "score": 3385,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 478,
+      "tier": 2,
+      "x": 52.78,
+      "steps": 122,
+      "score": 3385,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 479,
+      "tier": 3,
+      "x": 283.75,
+      "steps": 131,
+      "score": 3385,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 480,
+      "tier": 3,
+      "x": 343.75,
+      "steps": 241,
+      "score": 3401,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 481,
+      "tier": 2,
+      "x": 86.81,
+      "steps": 241,
+      "score": 3404,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 482,
+      "tier": 1,
+      "x": 299.13,
+      "steps": 186,
+      "score": 3404,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 483,
+      "tier": 4,
+      "x": 303.27,
+      "steps": 241,
+      "score": 3414,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 484,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 141,
+      "score": 3414,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 485,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 138,
+      "score": 3414,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 486,
+      "tier": 2,
+      "x": 86.81,
+      "steps": 155,
+      "score": 3414,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 487,
+      "tier": 4,
+      "x": 255.27,
+      "steps": 227,
+      "score": 3439,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 488,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 230,
+      "score": 3448,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 489,
+      "tier": 1,
+      "x": 311.13,
+      "steps": 241,
+      "score": 3473,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 490,
+      "tier": 1,
+      "x": 263.13,
+      "steps": 169,
+      "score": 3473,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 491,
+      "tier": 1,
+      "x": 215.13,
+      "steps": 220,
+      "score": 3474,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 492,
+      "tier": 2,
+      "x": 242.81,
+      "steps": 241,
+      "score": 3477,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 493,
+      "tier": 1,
+      "x": 167.13,
+      "steps": 209,
+      "score": 3477,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 494,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 188,
+      "score": 3480,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 495,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 232,
+      "score": 3481,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 496,
+      "tier": 1,
+      "x": 191.13,
+      "steps": 158,
+      "score": 3481,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 497,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 241,
+      "score": 3491,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 498,
+      "tier": 3,
+      "x": 103.75,
+      "steps": 189,
+      "score": 3507,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 499,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 122,
+      "score": 3507,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 500,
+      "tier": 1,
+      "x": 179.13,
+      "steps": 124,
+      "score": 3507,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 501,
+      "tier": 2,
+      "x": 62.81,
+      "steps": 233,
+      "score": 3510,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 502,
+      "tier": 2,
+      "x": 122.81,
+      "steps": 122,
+      "score": 3510,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 503,
+      "tier": 4,
+      "x": 219.27,
+      "steps": 241,
+      "score": 3535,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 504,
+      "tier": 3,
+      "x": 283.75,
+      "steps": 172,
+      "score": 3535,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 505,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 241,
+      "score": 3544,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 506,
+      "tier": 4,
+      "x": 147.27,
+      "steps": 241,
+      "score": 3569,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 507,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 3573,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 508,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 129,
+      "score": 3573,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 509,
+      "tier": 2,
+      "x": 38.81,
+      "steps": 241,
+      "score": 3582,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 510,
+      "tier": 4,
+      "x": 63.27,
+      "steps": 212,
+      "score": 3592,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 511,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 126,
+      "score": 3592,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 512,
+      "tier": 2,
+      "x": 50.81,
+      "steps": 228,
+      "score": 3607,
+      "highest": 10,
+      "state": "running"
+    },
+    {
+      "turn": 513,
+      "tier": 1,
+      "x": 71.13,
+      "steps": 241,
+      "score": 3797,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 514,
+      "tier": 4,
+      "x": 99.27,
+      "steps": 241,
+      "score": 3797,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 515,
+      "tier": 3,
+      "x": 343.75,
+      "steps": 213,
+      "score": 3803,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 516,
+      "tier": 4,
+      "x": 356.73,
+      "steps": 227,
+      "score": 3849,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 517,
+      "tier": 3,
+      "x": 235.75,
+      "steps": 188,
+      "score": 3855,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 518,
+      "tier": 2,
+      "x": 278.81,
+      "steps": 122,
+      "score": 3855,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 519,
+      "tier": 4,
+      "x": 339.27,
+      "steps": 140,
+      "score": 3855,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 520,
+      "tier": 1,
+      "x": 131.13,
+      "steps": 122,
+      "score": 3855,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 521,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 3866,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 522,
+      "tier": 1,
+      "x": 299.13,
+      "steps": 241,
+      "score": 3866,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 523,
+      "tier": 4,
+      "x": 135.27,
+      "steps": 223,
+      "score": 3876,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 524,
+      "tier": 1,
+      "x": 347.13,
+      "steps": 241,
+      "score": 3880,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 525,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 241,
+      "score": 3883,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 526,
+      "tier": 2,
+      "x": 374.81,
+      "steps": 241,
+      "score": 3883,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 527,
+      "tier": 3,
+      "x": 295.75,
+      "steps": 241,
+      "score": 3889,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 528,
+      "tier": 1,
+      "x": 167.13,
+      "steps": 241,
+      "score": 3889,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 529,
+      "tier": 1,
+      "x": 191.13,
+      "steps": 241,
+      "score": 3890,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 530,
+      "tier": 1,
+      "x": 83.13,
+      "steps": 241,
+      "score": 3890,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 531,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 241,
+      "score": 3896,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 532,
+      "tier": 1,
+      "x": 347.13,
+      "steps": 241,
+      "score": 3896,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 533,
+      "tier": 1,
+      "x": 35.7,
+      "steps": 241,
+      "score": 3897,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 534,
+      "tier": 2,
+      "x": 74.81,
+      "steps": 241,
+      "score": 3900,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 535,
+      "tier": 1,
+      "x": 95.13,
+      "steps": 241,
+      "score": 3900,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 536,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 241,
+      "score": 3903,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 537,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 241,
+      "score": 3934,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 538,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 3935,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 539,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 241,
+      "score": 3945,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 540,
+      "tier": 2,
+      "x": 182.81,
+      "steps": 241,
+      "score": 3954,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 541,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 3954,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 542,
+      "tier": 1,
+      "x": 167.13,
+      "steps": 241,
+      "score": 3956,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 543,
+      "tier": 4,
+      "x": 147.27,
+      "steps": 241,
+      "score": 3981,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 544,
+      "tier": 1,
+      "x": 155.13,
+      "steps": 241,
+      "score": 3981,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 545,
+      "tier": 2,
+      "x": 206.81,
+      "steps": 241,
+      "score": 4006,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 546,
+      "tier": 4,
+      "x": 159.27,
+      "steps": 241,
+      "score": 4006,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 547,
+      "tier": 3,
+      "x": 199.75,
+      "steps": 241,
+      "score": 4006,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 548,
+      "tier": 2,
+      "x": 50.81,
+      "steps": 241,
+      "score": 4015,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 549,
+      "tier": 3,
+      "x": 115.75,
+      "steps": 241,
+      "score": 4031,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 550,
+      "tier": 1,
+      "x": 203.13,
+      "steps": 241,
+      "score": 4032,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 551,
+      "tier": 1,
+      "x": 35.13,
+      "steps": 122,
+      "score": 4032,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 552,
+      "tier": 2,
+      "x": 98.81,
+      "steps": 122,
+      "score": 4032,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 553,
+      "tier": 4,
+      "x": 207.27,
+      "steps": 241,
+      "score": 4057,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 554,
+      "tier": 1,
+      "x": 239.13,
+      "steps": 241,
+      "score": 4057,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 555,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 241,
+      "score": 4060,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 556,
+      "tier": 1,
+      "x": 287.13,
+      "steps": 241,
+      "score": 4064,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 557,
+      "tier": 2,
+      "x": 158.81,
+      "steps": 133,
+      "score": 4064,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 558,
+      "tier": 1,
+      "x": 179.13,
+      "steps": 122,
+      "score": 4064,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 559,
+      "tier": 1,
+      "x": 275.13,
+      "steps": 128,
+      "score": 4064,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 560,
+      "tier": 1,
+      "x": 227.13,
+      "steps": 215,
+      "score": 4065,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 561,
+      "tier": 2,
+      "x": 242.81,
+      "steps": 174,
+      "score": 4074,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 562,
+      "tier": 4,
+      "x": 315.27,
+      "steps": 241,
+      "score": 4084,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 563,
+      "tier": 2,
+      "x": 134.81,
+      "steps": 68,
+      "score": 4087,
+      "highest": 11,
+      "state": "revive"
+    },
+    {
+      "turn": 564,
+      "tier": 2,
+      "x": 278.81,
+      "steps": 241,
+      "score": 4087,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 565,
+      "tier": 2,
+      "x": 266.81,
+      "steps": 123,
+      "score": 4087,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 566,
+      "tier": 3,
+      "x": 247.75,
+      "steps": 241,
+      "score": 4093,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 567,
+      "tier": 2,
+      "x": 323.85,
+      "steps": 241,
+      "score": 4096,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 568,
+      "tier": 1,
+      "x": 383.13,
+      "steps": 241,
+      "score": 4096,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 569,
+      "tier": 4,
+      "x": 171.27,
+      "steps": 241,
+      "score": 4121,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 570,
+      "tier": 2,
+      "x": 146.81,
+      "steps": 241,
+      "score": 4121,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 571,
+      "tier": 1,
+      "x": 347.13,
+      "steps": 72,
+      "score": 4122,
+      "highest": 11,
+      "state": "revive"
+    },
+    {
+      "turn": 572,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 241,
+      "score": 4122,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 573,
+      "tier": 4,
+      "x": 351.27,
+      "steps": 241,
+      "score": 4128,
+      "highest": 11,
+      "state": "running"
+    },
+    {
+      "turn": 574,
+      "tier": 4,
+      "x": 159.27,
+      "steps": 230,
+      "score": 4138,
+      "highest": 11,
+      "state": "over"
+    }
+  ]
+}

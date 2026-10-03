@@ -1,0 +1,1 @@
+const {spawnSync}=require('node:child_process');const path=require('node:path');const config=require('./difficulty-v2.json');for(const seed of config.seeds){const r=spawnSync(process.execPath,[path.join(__dirname,'pillow-sim.js'),String(seed),JSON.stringify(config.scales)],{stdio:'inherit'});if(r.status!==0)process.exit(r.status||1);}

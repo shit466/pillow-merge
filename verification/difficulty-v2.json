@@ -1,0 +1,62 @@
+{
+  "scales": [
+    1.45,
+    1.45,
+    1.45,
+    1.45,
+    1.25,
+    1.12,
+    1.03,
+    0.95,
+    0.9,
+    0.85,
+    1.55
+  ],
+  "seeds": [
+    104,
+    207,
+    309
+  ],
+  "average": 2957.3333333333335,
+  "rounds": [
+    {
+      "seed": 104,
+      "score": 2118,
+      "highest": 9,
+      "hit11": false,
+      "first11": null,
+      "drops": 326,
+      "revives": 1,
+      "state": "over",
+      "seconds": 519.3,
+      "wallSeconds": 13.6
+    },
+    {
+      "seed": 207,
+      "score": 2616,
+      "highest": 10,
+      "hit11": false,
+      "first11": null,
+      "drops": 408,
+      "revives": 1,
+      "state": "over",
+      "seconds": 624.8,
+      "wallSeconds": 14.8
+    },
+    {
+      "seed": 309,
+      "score": 4138,
+      "highest": 11,
+      "hit11": true,
+      "first11": {
+        "drop": 513,
+        "score": 3797
+      },
+      "drops": 574,
+      "revives": 2,
+      "state": "over",
+      "seconds": 965,
+      "wallSeconds": 23.2
+    }
+  ]
+}
